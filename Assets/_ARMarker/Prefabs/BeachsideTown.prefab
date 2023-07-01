@@ -14301,7 +14301,7 @@ GameObject:
   - component: {fileID: 1740618596333835435}
   m_Layer: 0
   m_Name: BeachsideTown
-  m_TagString: Untagged
+  m_TagString: modelObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
